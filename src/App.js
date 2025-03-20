@@ -1,8 +1,9 @@
+import Resturant from "./Component/Resturant"
 
 const App = () => {
   return (
     <div>
-      <h1>Welcome to  my website</h1>
+      <Resturant/>
     </div>
   )
 }
